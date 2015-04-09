@@ -1,0 +1,2 @@
+C:\src\git\meetup1\livecoding\03\Android\bin\Debug\Android.dll
+C:\src\git\meetup1\livecoding\03\SharedCode\bin\Debug\SharedCode.dll

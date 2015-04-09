@@ -1,0 +1,2 @@
+C:\src\git\meetup1\livecoding\02\SharedCode\SharedCode.csproj;neutral
+C:\src\git\meetup1\livecoding\02\WP\WP.csproj;neutral

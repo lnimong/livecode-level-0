@@ -1,0 +1,10 @@
+C:\src\git\meetup1\livecoding\02\SharedCode\bin\Debug\SharedCode.dll
+C:\src\git\meetup1\livecoding\02\SharedCode\bin\Debug\SharedCode.pdb
+C:\src\git\meetup1\livecoding\02\SharedCode\obj\Debug\SharedCode.csprojResolveAssemblyReference.cache
+C:\src\git\meetup1\livecoding\02\SharedCode\obj\Debug\SharedCode.dll
+C:\src\git\meetup1\livecoding\02\SharedCode\obj\Debug\SharedCode.pdb
+C:\src\git\meetup1\livecoding\03\SharedCode\bin\Debug\SharedCode.dll
+C:\src\git\meetup1\livecoding\03\SharedCode\bin\Debug\SharedCode.pdb
+C:\src\git\meetup1\livecoding\03\SharedCode\obj\Debug\SharedCode.csprojResolveAssemblyReference.cache
+C:\src\git\meetup1\livecoding\03\SharedCode\obj\Debug\SharedCode.dll
+C:\src\git\meetup1\livecoding\03\SharedCode\obj\Debug\SharedCode.pdb
